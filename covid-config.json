@@ -1,0 +1,18 @@
+{
+    "spark-app-name":"Covid-19 Data Pyspark Pipeline",
+
+    "master":"local",
+    "mysql-connector-path":"mysql-connector-java-8.0.23.jar",
+    "api-link":"http://api.covid19india.org/csv/latest/vaccine_doses_statewise_v2.csv",
+
+    "db_data":{
+        "db_name":"test_db",
+        "db_table":"covid_summary",
+        "db_user":"root",
+        "db_password":"9825300502",
+        "db_jdbc_driver":"com.mysql.jdbc.Driver"
+    },
+    "name":{}
+
+
+}
