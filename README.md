@@ -29,9 +29,11 @@ To build above pipeline i had used pyspark
 ### Results:
 
 command line output:
+
 ![image](https://user-images.githubusercontent.com/69752829/141651642-defb93e2-4a62-42f2-bbb9-ea0919be8618.png)
 
 Database status after execution:
+
 ![image](https://user-images.githubusercontent.com/69752829/141654147-c99e0785-367e-4a80-8a81-0f01f4089da0.png)
 
 
