@@ -9,7 +9,7 @@
         "db_name":"test_db",
         "db_table":"covid_summary",
         "db_user":"root",
-        "db_password":"9825300502",
+        "db_password":"****",
         "db_jdbc_driver":"com.mysql.jdbc.Driver"
     },
     "name":{}
