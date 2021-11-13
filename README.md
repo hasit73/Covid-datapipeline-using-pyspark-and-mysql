@@ -14,6 +14,18 @@ Created covid data pipeline using PySpark and MySQL that collected data stream f
 To build above pipeline i had used pyspark
 
 
+### {IMPORTANT}
+
+Before move to the execution part please read below sentences
+
+- Use correct connector and drivername while making connection with MySQL db if you are going to use different db then procedure may differ. 
+
+- change login credentials (username & password) in covid-config.json.
+
+- Make sure that mentioned database and table is already created. 
+
+
+
 ### How to use
 
 1) clone **Covid-datapipeline-using-pyspark-and-mysql** repo.
